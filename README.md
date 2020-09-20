@@ -2,7 +2,7 @@
 Lion animation, with a Perlin Noise generated pattern, using the P5.js library. <br>
 Check it out:
 
-<img src="example_images/tree1.png" height="200px"/>
+<img src="lion.png" height="200px"/>
 
 ### Run Locally
 ```
