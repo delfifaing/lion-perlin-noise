@@ -1,0 +1,2 @@
+The difference with perlin-noise-particles is that the particles now are drawn with an alpha. 
+Plus in the sketch-particles.js, the background is not reset in every loop, in order to see the path the particles leave.
